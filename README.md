@@ -12,3 +12,6 @@ inject this class library into your infrastructure folder.
 #### STEP 3: Add required app settings [KEY_VAULT_URL, AZURE_CLIENT_SECRET, AZURE_TENANT_ID, AZURE_CLIENT_ID]
 
 #### STEP 4: Add IKeyVaultService as a dependency in your business class and enjoy :)
+
+## Helpful?
+Feel free to buy me a coffee: [buymeacoffee](https://bmc.link/asaphsouza)
